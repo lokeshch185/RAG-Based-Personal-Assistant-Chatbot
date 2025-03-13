@@ -1,0 +1,7 @@
+flask==2.0.1
+flask-cors==3.0.10
+pymupdf==1.19.6
+sentence-transformers==2.2.2
+qdrant-client==1.1.1
+requests==2.28.1
+python-dotenv==0.20.0
